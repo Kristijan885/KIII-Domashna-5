@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: vasko117/kiii-jenkins:latest
+          tags: kristijan885/ubuntu-image:latest
